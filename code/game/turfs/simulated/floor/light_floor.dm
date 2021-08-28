@@ -80,6 +80,7 @@
 		else
 			to_chat(user, "<span class='notice'>The light bulb seems fine, no need to replace it.</span>")
 
+/* It doesnt make sense for wasters to be raving, nor for admins to let them rave. To brazil you go!
 
 //Cycles through all of the colours
 /turf/open/floor/light/colour_cycle
@@ -99,3 +100,4 @@
 	name = "dancefloor"
 	desc = "Funky floor."
 	coloredlights = list("dancefloor_B")
+*/
